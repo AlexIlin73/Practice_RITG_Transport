@@ -1,0 +1,41 @@
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\Practice_Transport.exe.config
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\Practice_Transport.exe
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\Practice_Transport.pdb
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\obj\Debug\Practice_Transport.csproj.AssemblyReference.cache
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\obj\Debug\Practice_Transport.csproj.SuggestedBindingRedirects.cache
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\obj\Debug\Practice_Transport.CalculationForm.resources
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\obj\Debug\Practice_Transport.Properties.Resources.resources
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\obj\Debug\Practice_Transport.csproj.GenerateResource.cache
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\obj\Debug\Practice_Transport.csproj.CoreCompileInputs.cache
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\obj\Debug\Practice_Transport.exe
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\obj\Debug\Practice_Transport.pdb
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\ClassLibrary1.dll
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\ClassLibrary2.dll
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\ClassLibrary3.dll
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\ClassLibrary1.pdb
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\ClassLibrary2.pdb
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\ClassLibrary3.pdb
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\obj\Debug\Practice_Transport.csproj.CopyComplete
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\obj\Debug\Practice_Transport.ZakazForm.resources
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\MyDatabase.mdf
+C:\Users\serli\source\repos\Practice_Transport\Practice_Transport\bin\Debug\MyDatabase_log.ldf
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\bin\Debug\Practice_Transport.exe.config
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\bin\Debug\Practice_Transport.exe
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\bin\Debug\Practice_Transport.pdb
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\bin\Debug\ClassLibrary1.dll
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\bin\Debug\ClassLibrary2.dll
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\bin\Debug\ClassLibrary3.dll
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\bin\Debug\ClassLibrary1.pdb
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\bin\Debug\ClassLibrary2.pdb
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\bin\Debug\ClassLibrary3.pdb
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.csproj.AssemblyReference.cache
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.csproj.SuggestedBindingRedirects.cache
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.CalculationForm.resources
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.Properties.Resources.resources
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.ZakazForm.resources
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.csproj.GenerateResource.cache
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.csproj.CoreCompileInputs.cache
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.csproj.CopyComplete
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.exe
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.pdb
+C:\Users\serli\Desktop\Practice_Transport новый\Practice_Transport\obj\Debug\Practice_Transport.ZakazListForm.resources
